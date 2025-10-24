@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Serena 👋
 
-<!--
-**evenflow0422/evenflow0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about backend development and data-driven applications, mainly working with Python, Java, and SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+* 💡 I love developing my skills and reflecting on my progress along the way.
+* 🌱 Currently learning: Coding languages, AI and Linux environments.
+* 🔭 Working on: For now small projects.
+* ⚡ Fun fact: I’m also passionate about video editing, mainly using Adobe After Effects and Premiere Pro.
+
+---
+
+## ⚙️ Tech Stack
+
+**💻 Programming Languages**
+`Python` · `C#` · `Java` · `JavaScript` · `SQL`· `PHP`
+
+**🛠️ Tools & Technologies**
+`React` · `MySQL` · `Git` · `Linux` 
+
+---
+
+## 📫 Let's Connect
+
+📩 **Email:** [[serenauzumcu@protonmail.com](mailto:serenauzumcu@protonmail.com)]
+💡 **LeetCode:** [https://leetcode.com/evenflow0422](https://leetcode.com/evenflow0422)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=evenflow0422\&theme=flat\&no-frame=true\&margin-w=5)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evenflow0422\&show_icons=true\&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evenflow0422\&layout=compact)
+
+---
+
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/evenflow0422?theme=light\&font=Karla\&ext=heatmap)
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to reach out or check out my repositories below.* ✨
