@@ -36,17 +36,11 @@ I’m passionate about backend development and data-driven applications, mainly 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evenflow0422\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evenflow0422\&layout=compact)
-
----
-
 ## 📈 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/evenflow0422?theme=light\&font=Karla\&ext=heatmap)
 
 ---
+readME inspiration from github.com/Berfin4615
 
 ✨ *Thanks for visiting my profile! Feel free to reach out or check out my repositories below.* ✨
