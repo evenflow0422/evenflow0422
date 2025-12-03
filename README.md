@@ -27,7 +27,6 @@ I’m passionate about backend development and data-driven applications, mainly 
 
 📩 **Email:** [[serenauzumcu@protonmail.com](mailto:serenauzumcu@protonmail.com)]
 💡 **LeetCode:** [https://leetcode.com/evenflow0422](https://leetcode.com/evenflow0422)
-🏢 **LinkedIn:** [www.linkedin.com/in/serena-üzümcü-b92382395].(www.linkedin.com/in/serena-üzümcü-b92382395)
 
 ---
 
