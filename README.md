@@ -73,14 +73,6 @@ I'm passionate about backend development and data-driven applications, mainly wo
 
 ---
 
-<a href="https://stats.hyo.dev"><img src="https://github-readme-stats.vercel.app/api?username=evenflow0422&show_icons=true&theme=synthwave" width="480" /></a>
-
----
-
-![](https://komarev.com/ghpvc/?username=evenflow0422&color=blue&style=flat-square)
-
----
-
 readME inspiration from github.com/Berfin4615 & GPRM website.
 
 ✨ *Thanks for visiting my profile! Feel free to reach out or check out my repositories below.* ✨
