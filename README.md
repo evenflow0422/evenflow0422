@@ -5,7 +5,7 @@ I'm passionate about backend development and data-driven applications, mainly wo
 ---
 
 💡 I love developing my skills and reflecting on my progress along the way.<br>
-🌱 Currently learning: Coding languages, AI and Linux environments.<br>
+🌱 Currently learning: Coding languages and Linux environments.<br>
 🔭 Working on: For now small projects.
 
 ---
