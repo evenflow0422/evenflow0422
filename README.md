@@ -11,11 +11,11 @@
 </ul>
 <hr>
 <h2>About Me</h2>
-<hr>
 <ul>
   <li>🐵I build simple stuff, I'm not good with design even though I used to do photo/video editing.</li>
   <li>👩‍💻Into movies/shows and playing video games.</li>
   <li>🐈‍⬛🐈I have two cats hence the crazy lady syndrome</li>
   <li>🚴‍♀️I like cycling.</li>
 </ul>
+<hr>
 <p><i>you can find out more if you look at my portfolio✨</i></p>
